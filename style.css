@@ -1,4 +1,6 @@
 :root{
-    --cor-de-fundo:#383D58;
-    
+    --cor-de-fundo:linear-gradient(#424E61, #4EBFE9);
+    }
+    body{
+        background-color: var(--cor-de-fundo);
     }
